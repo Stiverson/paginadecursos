@@ -1,0 +1,75 @@
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px
+}
+
+h2 {
+text-align: center;
+font-weight: bold;
+font-size: 25px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+.curso{
+font-weight: bold;
+}
+
+ p .cargo{
+  text-align: justify;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.Conhecimentos{
+
+  text-align:center;
+}
+
+.conteudo {
+
+  text-align: justify;
+}
+
+
+.links a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+.links a:hover {
+	color:#f00;
+	}
+
+.links{
+  text-align: center;
+}
+
+.contato .icons {
+	text-align: center;
+  }
+
+  .contato a {
+	color: black;
+	font-size: 4em;
+	transition: text-shadow 1s;
+  }
+
+  .contato a:active,
+  .contato a:hover  {
+	text-decoration: none;
+
+  }
+
+  .logo{
+    position: absolute;
+  }
